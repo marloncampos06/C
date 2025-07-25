@@ -1,2 +1,2 @@
 # C
-Meu primeiro olamundo em C.
+Meu primeiro Olá, Mundo em C.
